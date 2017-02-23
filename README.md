@@ -1,7 +1,7 @@
 # Elite School YearBook
-[![Build Status]]
-[![PHP Version]]
-[![Licence]]
+[![Build Status](https://travis-ci.org/mdp/rotp.svg?branch=master)](https://travis-ci.org/mdp/rotp)
+[![Gem Version](https://badge.fury.io/rb/rotp.svg)](https://rubygems.org/gems/rotp)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/mdp/rotp/blob/master/LICENSE)
 
 <b>Elite School Yearbook</b> is a digital end of year school magazine that features gallery archives of all schools in images, videos, audios and student articles and shared publicly to be viewed by all school stake holders.
 
