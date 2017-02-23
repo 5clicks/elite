@@ -1,4 +1,8 @@
 # Elite School YearBook
+[![Build Status]]
+[![PHP Version]]
+[![Licence]]
+
 <b>Elite School Yearbook</b> is a digital end of year school magazine that features gallery archives of all schools in images, videos, audios and student articles and shared publicly to be viewed by all school stake holders.
 
 ## Benefits:
