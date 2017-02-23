@@ -1,7 +1,7 @@
 # Elite School YearBook
-[![Build Status](https://travis-ci.org/mdp/rotp.svg?branch=master)](https://travis-ci.org/mdp/rotp)
-[![Gem Version](https://badge.fury.io/rb/rotp.svg)](https://rubygems.org/gems/rotp)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/mdp/rotp/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/mdp/rotp.svg?branch=master)](https://elite-yb.herokuapp.com)
+[![Elite Version](https://badge.fury.io/gh/5clicks%2Felite.svg)](https://elite-yb.herokuapp.com)
+[![License](https://img.shields.io/badge/license-5ClicksLtd-blue.svg?style=flat)](https://github.com/5clicks/elite/master/LICENSE)
 
 <b>Elite School Yearbook</b> is a digital end of year school magazine that features gallery archives of all schools in images, videos, audios and student articles and shared publicly to be viewed by all school stake holders.
 
