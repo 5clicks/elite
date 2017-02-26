@@ -23,5 +23,6 @@
   -NGO's<br>
   -Financial institutions<br>
 
-<br> Copyright 2017, Elite School Yearbook, 5 Clicks Ltd.<br>
+## Copyright
+Copyright 2017, Elite School Yearbook, 5 Clicks Ltd.<br>
 www.elite.rw
